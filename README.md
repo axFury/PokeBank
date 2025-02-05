@@ -16,8 +16,8 @@ Pokebank est une application mobile dédiée aux collectionneurs et investisseur
 
 ## 📱 Téléchargement de l'application
 
-**Android (APK) :** [Lien de téléchargement](#)  
-**iOS (IPA) :** [Lien de téléchargement](#)  
+**Android (APK) :** [Lien de téléchargement](https://github.com/axFury/PokeBank/releases/download/IPA/PokeBank.apk)  
+**iOS (IPA) :** [Lien de téléchargement](https://github.com/axFury/PokeBank/releases/download/IPA/PokeBank.ipa)  
 
 *Les versions APK et IPA sont disponibles pour les utilisateurs inscrits à la version bêta.*
 
